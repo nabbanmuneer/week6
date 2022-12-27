@@ -57,7 +57,7 @@ exports.userHome=userHome;
 //   res.redirect('/users/home')
 // }
 // exports.userView=userView;
-
+//changes
 
 //-------------admin-------------------
 // const viewUser= (req,res)=>{
